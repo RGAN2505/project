@@ -8,7 +8,7 @@ Es importante tener instalado **Git** y una cuenta en **GitHub**, también un ed
 
 Este comando se usa solo una vez para iniciar un nuevo proyecto y tenerlo en un repositorio, donde se guarda todo lo que se realize. Para saber si ya se inicio, en el **directorio de trabajo**(*Working Directory*), se creará un carpeta llamada ".git" la cual estará oculta, es ahi donde se guardaran los cambios del proyecto.
 
-![Imagen 1](imagen/imagen1.png)
+![Imagen 1](imagen/image1.png)
 
 * ## Git add
 El comando siguiente sirve para subir los archivos que se tienen en el **Working Directory** al **Stagin Area**(*área de preparación*), donde se mantienen temporalmente para después guardalos en el repositorio. 
